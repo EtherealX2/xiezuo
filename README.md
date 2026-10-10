@@ -23,7 +23,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/xiezuo.git
+git clone https://github.com/EtherealX2/xiezuo.git
 cp -R xiezuo/xiezuo ~/.qoder/skills/     # Qoder CLI 用户级安装
 ```
 
